@@ -1,0 +1,51 @@
+good reviews 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+diagonal line unexplained
+
+large x and y values should be expressed in a more compact notation ($ in units of 1000 for example)
+
+assigning color to rage is dangerous and induces bias and preconceptions better to chose shapes. 
+
+the plot is empty (remember tufte's rules) however the equal axis ratio helps making the point that all female stipends are below the "equal" line so the emptiness is justified in this case
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+mmh555
+============
+
+the histograms with the horizontal display highlight the difference between man and women naturally
+
+the colors are compliant with most color-blindness prescriptions and avoiding a red-based color for women is wise, as plotting man and women with blue-pink triggers preconceptions
+
+the two plots should be included in the same panel to allow comparison
+
+the y label "observations" is inaccurate and non informative
+
+
+pkb236
+============
+
+
+
+
+this is a great plot. the kind of plot that makes tufte happy. 
+the author should make the python implementation public in a nice python module!
+the color choices are not terribly good for color blind compliance.
+
+what is the number at the top left of each row? not describes in the readme.
+
+
+sv1379
+============
+ 
+the plot is a simple stacked histogram. 
+
+labels are too small for redeability, both tick labels and axis labels and title (which is also missing a space between word and parenthesis)
+
+colorblind compliant 
